@@ -2,6 +2,10 @@
 
 **Structured multi-agent deliberation with human-reviewed decisions.**
 
+[![Council of Agents V2: animated visual walkthrough](assets/demo.gif)](docs/WALKTHROUGH.md)
+
+*15-second looping slideshow of the existing public images. Historical preview: October 12, 2026 | Synthetic read-only fixtures | No live core connection.*
+
 Difficult questions benefit from distinct positions, peer challenge and an explicit record of disagreement. Council V2 structures that deliberation and returns material for a human decision. The V2 Rust core and its separate desktop preview must be distinguished from the older V1 presentation.
 
 ![Council of Agents V2: overview](assets/overview.png)
